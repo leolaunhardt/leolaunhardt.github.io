@@ -2,30 +2,34 @@
 layout: about
 title: About
 permalink: /
+subtitle: MSc Statistical Science, University of Oxford
 social: true
 math: true
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p><a href="mailto:name.surname@university.edu">name.surname@university.edu</a></p>
+    <p><a href="mailto:you@example.com">you@example.com</a></p>
+selected_papers: false   # auf true setzen, sobald du Paper in _bibliography/papers.bib hast
 ---
 
-I am an academic at the [University](https//www.universitywebsite.com). I'm currently in the process of building by website. 
+Hi, I'm Leo.
 
-**My research interests lie in**
+I recently completed an **MSc in Statistical Science at the University of Oxford** with distinction.
+My master's thesis, supervised by [François Caron](https://www.stats.ox.ac.uk/~caron/), studied
+**finite-sample properties of prediction-powered inference**: how machine learning predictions on
+unlabelled data can be combined with a small labelled sample without losing valid uncertainty estimates.
 
-- **Interest 1.**
-- **Interest 2.**
-- **Interest 3.**
+Before that, I did a **BSc in Economics at the University of Mannheim**, also with distinction,
+including an exchange semester at the **Toulouse School of Economics**. My bachelor's thesis,
+supervised by Thomas Tröger, applied Bayesian game theory to find a winning strategy for a board game.
 
-If you’d like to chat, feel free to reach out via <a href="mailto:name.surname@university.edu">name.surname@university.edu</a>
+I'm currently looking for **PhD positions** and **internships** in statistics and probabilistic machine learning.
 
-## Talks
+### Research interests
 
-I'll give talks at the following venues:
-
-- Venue 1 : *Title 1*
-- Venue 2 : *Title 2*
-- Venue 3 : *Title 3*
+- **Uncertainty quantification**: valid inference for and with machine-learning predictions
+- **Bayesian methods**: principled ways of combining prior knowledge with limited data
+- **Data-scarce and finite-sample settings**: what can be guaranteed when asymptotics don't apply
+- **Game theory**: strategic interaction and decision-making under uncertainty
