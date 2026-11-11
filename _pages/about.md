@@ -31,6 +31,6 @@ I'm currently looking for **PhD positions** and **internships** in probabilistic
 - **A Bigger and Cheaper Lunch: Proposing DoublePPI and Guarded Tuning in Finite-Sample Prediction-Powered Inference**<br>
   MSc thesis, University of Oxford, 2026. Supervised by [Prof. François Caron](https://www.stats.ox.ac.uk/~caron/).
 - **A Model of “Kuhhandel”: All-Pay and Richman Dynamics in a Two-Person Zero-Sum Game**<br>
-  BSc thesis, University of Mannheim. Supervised by [Prof. Dr. Thomas Tröger](https://www.vwl.uni-mannheim.de/troeger/).
+  BSc thesis, University of Mannheim, 2025. Supervised by [Prof. Dr. Thomas Tröger](https://www.vwl.uni-mannheim.de/troeger/).
 
 More details can be found on my [Publications](/publications/) page.
