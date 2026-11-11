@@ -13,10 +13,13 @@ profile:
     <p><a href="mailto:leo.launhardt@gmx.de">leo.launhardt@gmx.de</a></p>
 selected_papers: false   # auf true setzen, sobald du Paper in _bibliography/papers.bib hast
 ---
+<style>
+  .post li { margin-bottom: 0.8rem; }
+</style>
 
 Hi, I'm Leo. I hold an **MSc in Statistical Science** from the **University of Oxford** and a **BSc in Economics** from the **University of Mannheim**, both with distinction, including an exchange semester at the **Toulouse School of Economics**.
 
-Beyond academia, I bring experience from the **German Council of Economic Experts**. I'm also strongly involved in voluntary work, for example as a founding team member of the new **German-British Conference**, which brings together voices from both countries to discuss AI policy.
+Beyond academia, I bring experience from the **German Council of Economic Experts**. I'm also strongly involved in voluntary work, for example as a founding team member of the new [**German-British Conference**](https://www.germanbritishconference.com), which brings together voices from both countries to discuss AI policy.
 
 I'm currently looking for **PhD positions** and **internships** in probabilistic machine learning.
 
