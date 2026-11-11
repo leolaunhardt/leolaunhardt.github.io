@@ -10,26 +10,27 @@ profile:
   image: prof_pic.png
   image_circular: false
   more_info: >
-    <p><a href="mailto:you@example.com">you@example.com</a></p>
+    <p><a href="mailto:leo.launhardt@gmx.de">leo.launhardt@gmx.de</a></p>
 selected_papers: false   # auf true setzen, sobald du Paper in _bibliography/papers.bib hast
 ---
 
-Hi, I'm Leo.
+Hi, I'm Leo. I hold an **MSc in Statistical Science** from the **University of Oxford** and a **BSc in Economics** from the **University of Mannheim**, both with distinction, including an exchange semester at the **Toulouse School of Economics**.
 
-I recently completed an **MSc in Statistical Science at the University of Oxford** with distinction.
-My master's thesis, supervised by [François Caron](https://www.stats.ox.ac.uk/~caron/), studied
-**finite-sample properties of prediction-powered inference**: how machine learning predictions on
-unlabelled data can be combined with a small labelled sample without losing valid uncertainty estimates.
+Beyond academia, I bring experience from the **German Council of Economic Experts**. I'm also strongly involved in voluntary work, for example as a founding team member of the new **German-British Conference**, which brings together voices from both countries to discuss AI policy.
 
-Before that, I did a **BSc in Economics at the University of Mannheim**, also with distinction,
-including an exchange semester at the **Toulouse School of Economics**. My bachelor's thesis,
-supervised by Thomas Tröger, applied Bayesian game theory to find a winning strategy for a board game.
-
-I'm currently looking for **PhD positions** and **internships** in statistics and probabilistic machine learning.
+I'm currently looking for **PhD positions** and **internships** in probabilistic machine learning.
 
 ### Research interests
 
-- **Uncertainty quantification**: valid inference for and with machine-learning predictions
-- **Bayesian methods**: principled ways of combining prior knowledge with limited data
-- **Data-scarce and finite-sample settings**: what can be guaranteed when asymptotics don't apply
-- **Game theory**: strategic interaction and decision-making under uncertainty
+- **Trustworthy machine learning and uncertainty quantification:** Making statistically valid inference possible when ML predictions are used in place of scarce labels, and improving the power and efficiency of prediction-powered inference (PPI) in finite samples.
+- **Bayesian methods for data-scarce settings:** Using prior knowledge and Bayes-assisted procedures to get reliable uncertainty estimates when labelled data are expensive or limited.
+- **Game theory meets machine learning:** Combining my background in game theory with modern ML methods, currently by exploring multi-agent reinforcement learning and strategic interaction between learning agents.
+
+### Past work
+
+- **A Bigger and Cheaper Lunch: Proposing DoublePPI and Guarded Tuning in Finite-Sample Prediction-Powered Inference**<br>
+  MSc thesis, University of Oxford, 2026. Supervised by [Prof. François Caron](https://www.stats.ox.ac.uk/~caron/).
+- **A Model of “Kuhhandel”: All-Pay and Richman Dynamics in a Two-Person Zero-Sum Game**<br>
+  BSc thesis, University of Mannheim. Supervised by [Prof. Dr. Thomas Tröger](https://www.vwl.uni-mannheim.de/troeger/).
+
+More details can be found on my [Publications](/publications/) page.
